@@ -15,8 +15,7 @@ My objective is to seek a dynamic and challenging career in an organization wher
 
 ## 🤖 Technical Skills.
 
-<img src="images/Java.png" alt="alternate text" style="background-color: white;" width="60px">
-<img src="images/MySql.png" alt="alternate text" style="background-color: white;" width="60px">
+<img src="images/Java.png" alt="alternate text" style="background-color: white;" width="60px"><img src="images/MySql.png" alt="alternate text" style="background-color: white;" width="60px">
 <img src="images/Python.png" alt="alternate text" style="background-color: white;" width="60px">
 <img src="images/Spring_Boot.png" alt="alternate text" style="background-color: white;" width="60px">
 <img src="images/Rest_Api.png" alt="alternate text" style="background-color: white;" width="60px">
