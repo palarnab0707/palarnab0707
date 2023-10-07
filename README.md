@@ -1,4 +1,4 @@
-### Hi there 👋, I am Arnab, I am a Bachelor of Computer Science and Engineering
+### Hi there 👋, I am Arnab, I am a Bachelor of Computer Science and Engineer
 
 I'm a Full Stack Developer having knowledge in Java Spring Boot, Angular Web App Development, Python for Data Science, Machine Learning.
 
