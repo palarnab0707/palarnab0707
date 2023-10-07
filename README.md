@@ -11,7 +11,7 @@ My objective is to seek a dynamic and challenging career in an organization wher
 
 ## 🤝 Connect with me.
 
-<a href="www.linkedin.com/in/arnab-pal-34bb6a22a"><img src="images/Linkedin.png" alt="alternate text" width="30px"></a>
+<a href="www.linkedin.com/in/arnab-pal-34bb6a22a"><img src="images/LinkedIn.png" alt="alternate text" width="40px"></a>
 
 ## 🤖 Technical Skills.
 
