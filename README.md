@@ -11,11 +11,11 @@ My objective is to seek a dynamic and challenging career in an organization wher
 
 ## 🤝 Connect with me.
 
-<a href="www.linkedin.com/in/arnab-pal-34bb6a22a"><img src="images/linkedin.png" alt="alternate text" width=”30px”></a>
+<a href="www.linkedin.com/in/arnab-pal-34bb6a22a"><img src="images/Linkedin.png" alt="alternate text" width="30px"></a>
 
 ## 🤖 Technical Skills.
 
-<img src="images/Java.png" alt="alternate text" width=”30px”>
+<img src="images/Java.png" alt="alternate text" width="30px">
 
 <!--
 **palarnab0707/palarnab0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
